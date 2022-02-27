@@ -13,10 +13,10 @@ I'm a software developer with a passion for learning and building things. 📜 :
 ### My skills include
 
 [![Skills badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white.svg)](https://shields.io/)
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+[![Skills badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black.svg)](https://shields.io/)
+[![Skills badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white.svg)](https://shields.io/)
+[![Skills badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white.svg)](https://shields.io/)
+[![Skills badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white.svg)](https://shields.io/)
 
 <p align="center">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
