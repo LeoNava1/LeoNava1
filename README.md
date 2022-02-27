@@ -25,10 +25,6 @@ https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
 </p>
 
-### My Recent post on Medium!
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0" alt="Recent Article on medium"></img></a>   
-    
-    
 *If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.*
 <hr>
 <p align="center">
