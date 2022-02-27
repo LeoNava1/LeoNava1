@@ -3,11 +3,8 @@
 ### About me
 I'm a software developer with a passion for learning and building things. 📜 :robot: 
 
-
-- ⚡ *Fun fact:* I believe in the Chaos theory: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- 🔭 I’m currently working on:
-	- Linear regression on Health data
-	- Twitter Sentimental Analysis using NLP and clustering
+- ⚡ *Fun fact:* There is not fun fact.
+- 🔭 My hobbies are Play video games, watch movies
 - :bulb: I'm interested in all things data: *Big Data, Cloud, Machine Learning and Data Science*
 - 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
 - 🌱 I’m currently pursuing *Machine learning*.
