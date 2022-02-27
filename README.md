@@ -12,7 +12,7 @@ I'm a software developer with a passion for learning and building things. 📜 :
 
 ### My skills include
 
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[![Skills badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white.svg)](https://shields.io/)
 https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
@@ -25,7 +25,6 @@ https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
 </p>
 
-*If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.*
 <hr>
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
